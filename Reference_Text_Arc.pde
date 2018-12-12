@@ -5,7 +5,7 @@ void setup() {
   size(1000, 500);
   textAlign(CENTER);
 datboi = loadImage("DatBoi.jpg");
-save("VINCENT_REFERENCE_Text_Arc");
+
 }
 
 void draw(){
