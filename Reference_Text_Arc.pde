@@ -4,7 +4,7 @@ PImage datboi;
 void setup() {
   size(1000, 500);
   textAlign(CENTER);
-datboi = loadImage("https://pbs.twimg.com/media/CkjFUyTXEAEysBY.jpg");
+datboi = loadImage("DatBoi.jpg");
 save("VINCENT_REFERENCE_Text_Arc");
 }
 
